@@ -1,0 +1,17 @@
+[
+    {
+        "image" : "./assets/image1.jpg",
+        "video" : "./assets/video1.mp4",
+        "description" : "Praia do litoral"
+    },
+    {
+        "image" : "./assets/image2.jpg",
+        "video" : "./assets/video2.mp4",
+        "description" : "Chá Turco"
+    },
+    {
+        "image" : "./assets/image3.jpg",
+        "video" : "./assets/video3.mp4",
+        "description" : "Mar Mediterraneo"
+    }
+]
